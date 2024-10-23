@@ -1,0 +1,11 @@
+1.sitemap.xml, robot.txt, ads.txt
+2.google analytics
+3.google search console
+4.meta and description all in one seo
+
+Step#1. Website ready (atleast 5 to 6 pages are ready)
+Step#2. Create a google account + adsense account.
+Step#3. Add Ads.txt and robot.txt files in hosting
+Step#4. Add domain/website in google search console/ web master tool.
+Step#5. Then verify website/domain
+
